@@ -67,3 +67,4 @@ Also have some other hobbies that include:
 
 With these different activities, I relax, learn to think outside the box, and sometimes they give me perspectives on my technical problems. 
 ---
+Find more about me by visiting my portfolio at https://reynoldsegundo.vercel.app
