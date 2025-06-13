@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reynold Angelo C. Segundo
 
-A 17-year-old student, on a pursuit plan to become a **Software Engineer**. A journey I began in 2019 starting with Lua and Python.
+An 18-year-old student, on a pursuit plan to become a **Software Engineer**. A journey I began in 2019 starting with Lua and Python.
 
 ---
 
