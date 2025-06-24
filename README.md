@@ -26,7 +26,7 @@ Below are the tools I am using and learning about.
 *   **Learning:** Svelte - *I am always looking into more tools for my front-end toolbox!*
 
 ### ⚙️ Systems & Learning:
-*   **Learning:** Rust - I have just become comfortable with systems programming and am starting to learn about the new challenges it presents.
+*   **Learning:** Rust - I have just become comfortable with systems programming and am starting to learn about the new challenges it presents. It's humbling to say the least.
 ---
 ## 🎨 Outside of Code
 When I am not coding, you will usually find me with a camera or a video editing timeline. My other hobbies include:
