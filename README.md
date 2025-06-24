@@ -10,7 +10,7 @@ Currently, I am working on a research project focused on using AI in education.
 *   **My Perspective:** A long and tough task, but the opportunity to utilize AI for social good is gratifying.
 ---
 ## 🌱 How I Learn: "Build by Doing"
-> I am a strong believer in learning by doing. My process is simple: have an idea, build an extremely basic version of it (normally in Python to get up and running fast), then completely re-engineer/rewrite it in another language, sometimes from scratch, to see how it works.
+> I am a strong believer in learning by doing. My process is simple: have an idea, build an extremely basic version of it (normally in Python to get up and running fast), then completely re-engineer/rewrite it in another language, sometimes from scratch. Messy? Sometimes. Effective? Absolutely.
 ---
 ## 🛠️ Tech Stack & Areas of Interest
 Below are the tools I am using and learning about.
