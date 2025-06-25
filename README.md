@@ -37,6 +37,6 @@ When I am not coding, you will usually find me with a camera or a video editing 
 *   Videography
 *   Cinematography
 
-These aren't just hobbies; they're my mental reset button. Plus, you'd be surprised how often a photography technique ends up solving a coding problem.
+Apart from just being hobbies; they're also my mental reset button. Plus, you'd be surprised how often a photography technique ends up solving a coding problem.
 ---
 Want to see more of what I'm up to? Check out my portfolio at **https://reynoldsegundo.vercel.app**
