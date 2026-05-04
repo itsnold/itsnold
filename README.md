@@ -241,7 +241,7 @@ const angelo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/?username=itsnold&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsnold&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&v=1" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnold&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 <br />
