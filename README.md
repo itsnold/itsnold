@@ -2,7 +2,7 @@
 
 # Hey, I'm Angelo 👋
 
-### first-year CS student · student developer · building practical software for real people
+### first-year CS student · student developer · building practical software for people
 
 <p>
   <a href="https://github.com/itsnold">
@@ -45,8 +45,8 @@
       </p>
       <p>
         A big part of that comes from trying to be a person for others. I like
-        software more when it has a real human reason behind it. Well, that and I also just like building things that I can use myself, so I guess it's a
-        bit of both. I want to build software that feels useful to real people, and I also want to build software that I can use and enjoy myself.
+        software more when it has a reason behind it. Well, that and I also just like building things that I can use myself, so I guess it's a
+        bit of both. I want to build software that feels useful to people, and I also want to build software that I can use and enjoy myself.
       </p>
     </td>
     <td width="35%" align="center">
@@ -71,7 +71,7 @@ const angelo = {
   focus: ["Practical Software", "Local Platforms", "Systems"],
   currentlyBuilding: ["Cultivar", "Migo", "workflow tools"],
   learningStyle: "build it, break it, rebuild it better",
-  goal: "software that feels useful to real people"
+  goal: "software that's useful to people"
 };
 ```
 
@@ -241,7 +241,7 @@ const angelo = {
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsnold&theme=github_dark" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsnold&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnold&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 <br />
@@ -291,7 +291,7 @@ When I'm not coding, I am usually editing videos, designing something, taking ph
 <a href="https://www.linkedin.com/in/reynold-angelo-segundo-23b82036a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/justreyndrop/">
+<a href="https://www.instagram.com/gelorey.jpg/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:segundoreynoldangelo@gmail.com">
