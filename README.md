@@ -2,7 +2,7 @@
 
 # Hey, I'm Angelo 👋
 
-### first-year CS student · student developer · building practical software for people
+### second-year CS student · student developer · building practical software for people
 
 <p>
   <a href="https://github.com/itsnold">
