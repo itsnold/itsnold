@@ -178,7 +178,7 @@ const angelo = {
   </tr>
   <tr>
     <td><b>Cultivar</b></td>
-    <td>Delivery and digital selling platform for palengke vendors.</td>
+    <td>A delivery and digital selling platform for palengke vendors.</td>
     <td>
       <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
