@@ -8,8 +8,8 @@
   <a href="https://github.com/itsnold">
     <img src="https://img.shields.io/badge/GitHub-itsnold-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://reynoldsegundo.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-reynoldsegundo.vercel.app-115E41?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://itsnold.dev">
+    <img src="https://img.shields.io/badge/Portfolio-itsnold.dev-115E41?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/reynold-angelo-segundo-23b82036a/">
     <img src="https://img.shields.io/badge/LinkedIn-Reynold%20Angelo%20Segundo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -50,7 +50,7 @@
       </p>
     </td>
     <td width="35%" align="center">
-      <a href="https://reynoldsegundo.vercel.app">
+      <a href="https://itsnold.dev">
         <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-115E41?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
       </a>
       <br />
@@ -285,7 +285,7 @@ When I'm not coding, I am usually editing videos, designing something, taking ph
 <a href="https://github.com/itsnold">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://reynoldsegundo.vercel.app">
+<a href="https://itsnold.dev">
   <img src="https://img.shields.io/badge/Portfolio-115E41?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/reynold-angelo-segundo-23b82036a/">
