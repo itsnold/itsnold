@@ -32,7 +32,7 @@
         I'm <b>Reynold Angelo C. Segundo</b>, but I usually just go by <b>Angelo</b>.
       </p>
       <p>
-        I'm a first-year CS student from the Philippines. I started with Roblox
+        I'm a second-year CS student from the Philippines. I started with Roblox
         Studio and Luau, moved into Python, then C, and now I usually bounce
         between web apps, local platforms, systems experiments, and small
         workflow fixes.
